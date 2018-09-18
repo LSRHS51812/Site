@@ -1,0 +1,40 @@
+body {
+  background-image: url("sky.jpeg");
+  color: white
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Kalam', cursive;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+}
+
+p {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    color: red
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: cyan;
+}
+
+td{
+  padding: 80px;
+}
